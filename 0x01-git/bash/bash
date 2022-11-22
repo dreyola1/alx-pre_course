@@ -1,0 +1,8 @@
+  /alx-pre_course/0x01-git/bash:
+  total used in directory 20 available 2096884
+  drwxr-xr-x 2 root root    59 Nov 22 04:22 .
+  drwxr-xr-x 5 root root    54 Nov 22 03:49 ..
+  -rw-r--r-- 1 root root     1 Nov 22 04:22 #alx#
+  lrwxrwxrwx 1 root root    22 Nov 22 04:21 .#alx -> root@36811c602249.1298
+  -rw-r--r-- 1 root root     1 Nov 22 04:20 alx
+  -rw-r--r-- 1 root root 12288 Nov 22 04:07 .alx.swp
